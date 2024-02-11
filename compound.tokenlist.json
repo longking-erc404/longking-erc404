@@ -1,0 +1,21 @@
+{
+  "name": "LongKing",
+  "logoURI": "https://raw.githubusercontent.com/longking-erc404/longking-erc404/main/logo.jpg",
+  "keywords": ["LongKing", "LONGKING", "404"],
+  "timestamp": "2020-09-01T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xed2582b2CD847C61d203507459676F2a7cAe953c",
+      "name": "LongKing",
+      "symbol": "LONGKING",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/longking-erc404/longking-erc404/main/logo.jpg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
